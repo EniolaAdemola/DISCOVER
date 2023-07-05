@@ -32,17 +32,40 @@ const Testimonials = () => {
                   <div>
                     <div className="single__testimonial">
                       <h6 className="mb-3 fw-bold">
-                        Excellent course of materials
+                        The Best Online Learning Experience Ever!
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                        I have been taking courses online for years and I have
+                        to say that the courses offered by this platform have
+                        been the best online learning experience I've ever had.
+                        The professors were knowledgeable, the materials were
+                        comprehensive and the videos and assignments really
+                        helped me to deepen my understanding of the subject
+                        matters.
                       </p>
 
                       <div className="student__info mt-4">
-                        <h6 className="fw-bold">Jhon Doe</h6>
-                        <p>California, United State</p>
+                        <h6 className="fw-bold">Eniola</h6>
+                        <p>Lagos, Nigeria</p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div>
+                    <div className="single__testimonial">
+                      <h6 className="mb-3 fw-bold">Exceeded My Expectations</h6>
+                      <p>
+                        I wasn't sure what to expect from this platform, but I
+                        have to say that it exceeded my expectations. The course
+                        materials were well-organized and easy to follow, the
+                        instructors were engaging and supportive, and I loved
+                        the interactive elements that allowed me to connect with
+                        other students.
+                      </p>
+
+                      <div className="student__info mt-4">
+                        <h6 className="fw-bold">Ayomide</h6>
+                        <p>Lagos, Nigeria</p>
                       </div>
                     </div>
                   </div>
@@ -50,35 +73,21 @@ const Testimonials = () => {
                   <div>
                     <div className="single__testimonial">
                       <h6 className="mb-3 fw-bold">
-                        Excellent course of materials
+                        Transformative Learning Experience
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                        The courses I took on this platform were truly
+                        transformative - I gained a deeper understanding of the
+                        subject matter and developed skills that I was able to
+                        apply in my career immediately. The instructors were
+                        passionate and the support from the platform staff was
+                        exceptional. I highly recommend this platform to anyone
+                        looking to upskill or make a career change.
                       </p>
 
                       <div className="student__info mt-4">
-                        <h6 className="fw-bold">Jhon Doe</h6>
-                        <p>California, United State</p>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div>
-                    <div className="single__testimonial">
-                      <h6 className="mb-3 fw-bold">
-                        Excellent course of materials
-                      </h6>
-                      <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
-                      </p>
-
-                      <div className="student__info mt-4">
-                        <h6 className="fw-bold">Jhon Doe</h6>
-                        <p>California, United State</p>
+                        <h6 className="fw-bold">Bola</h6>
+                        <p>Lagos, Nigeria</p>
                       </div>
                     </div>
                   </div>

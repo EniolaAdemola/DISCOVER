@@ -20,9 +20,11 @@ const AboutUs = () => {
             <div className="about__content">
               <h2>About Us</h2>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+                Discover was founded with the mission to provide high-quality
+                education that is accessible to everyone, regardless of
+                background or location. We believe that education is the key to
+                unlocking opportunities and unleashing potential. Join us on
+                your educational journey and discover your full potential.
               </p>
 
               <div className="about__counter">

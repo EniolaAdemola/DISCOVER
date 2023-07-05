@@ -14,9 +14,9 @@ const HeroSection = () => {
                 Anytime Anywhere <br /> Learn on your <br /> Suitable Schedule
               </h2>
               <p className="mb-5">
-                Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.
-                Aut saepe voluptatum earum delectus <br /> deserunt id iste,
-                quas officiis et repellat!
+                Unlock your potential and achieve your goals
+                <br /> with our transformative educational programs, <br />{" "}
+                designed to empower you and shape your future success.
               </p>
             </div>
             <div className="search">

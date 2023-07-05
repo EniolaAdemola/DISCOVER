@@ -5,19 +5,19 @@ import "./features.css";
 const FeatureData = [
   {
     title: "Quick Learning",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "With our accelerated learning programs, you can acquire new skills and knowledge efficiently and effectively, ensuring rapid progress in your educational journey.",
     icon: "ri-draft-line",
   },
 
   {
     title: "All Time Support",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "We provide round-the-clock support to our learners, ensuring that you have access to assistance, guidance, and resources whenever you need them, making your learning experience smooth and hassle-free.",
     icon: "ri-discuss-line",
   },
 
   {
     title: "Certification",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestias, aperiam doloribus aut sapiente praesentium eos iste dicta amet itaque!",
+    desc: "Upon successful completion of our courses, you will receive industry-recognized certifications that validate your skills, enhance your credibility, and open doors to new career opportunities.",
     icon: "ri-contacts-book-line",
   },
 ];
